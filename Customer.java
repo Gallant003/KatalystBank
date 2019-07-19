@@ -4,7 +4,7 @@ package com.service.RestfulWebService;
 public class Customer  {
 //Class variable, Member variable , properties of the class
 	public 	int id;
-	private 	double cost;
+	private 	double salary;
 	private 	String name;
 
 
